@@ -1,0 +1,44 @@
+
+
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+
+	}
+/*Nav-Bar*/
+.brand{background-color:#ffffff;
+font-family:arial;
+	}
+
+/*
+.navbar-brand{
+	text-shadow:0.1em 0.1em 0.15em;
+}
+*/
+
+/*Letras da missao, visao e valoers*/
+.dsc{
+	font-size:20px;
+  font-family:Comic Sans MS,Comic Sans MS Bold;	
+	}
+.container h1{
+	font-family:arial-black;
+}
+
+/*Div da missao, visao e valores*/
+.jumbotron{
+	background-color:#d3d3d3;
+	}
+
+/*Botao 'saiba mais'*/
+.btn-primary {
+	background-color:#000000;
+	
+	}
+.btn-primary:hover {
+	background-color:#565656;
+	}
+
+}
+
